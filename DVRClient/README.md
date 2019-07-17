@@ -1,4 +1,4 @@
-### LiveClient
+### DVRClient
 
 加入`socket.io`
 
